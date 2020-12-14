@@ -1,0 +1,21 @@
+/*#--ACTIVE--ДОП.ЗАДАННИЕ*/
+.menu a {
+    font: bold 14px Arial;
+
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+
+.menu .menu__list li a:hover {
+    color: #fd9d11;
+    background-color: white;
+}
+
+.menu .menu__list li .active {
+    color: #fd9d11;
+    background-color: white;
+}
+/*---------------------------------*/
